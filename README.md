@@ -10,7 +10,7 @@
       align="right"
       width="400"
     />
-
+<a href="https://app.daily.dev/Tesla-gamer"><img src="https://api.daily.dev/devcards/a9185783a6544b808e6881c885bb47a8.png?r=qqd" width="400" alt="Abhishek Gupta's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
